@@ -1,6 +1,6 @@
 # Restaurant Management System
 
-This repository contains the project files for the Restaurant Management System, a mini-project developed by Sukhumjeet Singh under the guidance of Dr. G. Usha, Associate Professor in the Department of Computing Technologies at SRM Institute of Science and Technology. This project was completed as part of the course 21CSC205P – Database Management Systems in the Computer Science and Engineering program.
+This repository contains the project files for the Restaurant Management System, a mini-project developed by Sukhumjeet Singh and Tamanna Dash under the guidance of Dr. G. Usha, Associate Professor in the Department of Computing Technologies at SRM Institute of Science and Technology. This project was completed as part of the course 21CSC205P – Database Management Systems in the Computer Science and Engineering program.
 
 ## Project Overview
 
