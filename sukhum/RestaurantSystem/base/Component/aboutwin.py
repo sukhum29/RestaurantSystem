@@ -20,5 +20,5 @@ class AboutWindow(tk.Toplevel):
         self.resizable(0, 0)
         self.title('About the application')
 
-        about_lbl = ttk.Label(self, wraplength=300, justify='left', padding=(5,50, 0, 0), font=("Helvetica Bold", 12),text="This application is developed by Sukhumjeet Singh and Iteesha Jaiswal as a real-time project for 21CSC205P Database Management Systems as part of their 4th Semester of BTech CSE Core at SRMIST KTR . Main functionality of this app involves managing a restaurant system, facilitating the order process between customer an the kitchen chief. Date of development March 2024.")
+        about_lbl = ttk.Label(self, wraplength=300, justify='left', padding=(5,50, 0, 0), font=("Helvetica Bold", 12),text="This application is developed by Sukhumjeet Singh and Tamanna Dash as a real-time project for 21CSC205P Database Management Systems as part of their 4th Semester of BTech CSE Core at SRMIST KTR . Main functionality of this app involves managing a restaurant system, facilitating the order process between customer an the kitchen chief. Date of development March 2024.")
         about_lbl.pack()
